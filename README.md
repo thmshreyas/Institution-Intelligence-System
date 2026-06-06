@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Institution Intelligence Platform
 
 Discover, verify, and analyze higher education institutions using AISHE data, web crawling, and AI-generated intelligence reports.
@@ -135,3 +136,6 @@ Open http://localhost:5173
 ## License
 
 Private — all rights reserved.
+=======
+# Institution-Intelligence-System
+>>>>>>> 83051e22aefc273902f1b82473418c918c425f18
